@@ -35,7 +35,7 @@ Excel (Pivot Tables, Macros) · Alteryx · GCP (BigQuery) · JIRA · Confluence 
 
 
 
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/83274691-0398-4444-b15a-de0c6e45fa2b" />
+<img width="512" height="768" alt="Image" src="https://github.com/user-attachments/assets/db4af003-cd5b-4c5a-b2f4-71f8a7b3669a" />
 
 
 
