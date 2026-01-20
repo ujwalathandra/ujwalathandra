@@ -35,6 +35,10 @@ Excel (Pivot Tables, Macros) · Alteryx · GCP (BigQuery) · JIRA · Confluence 
 
 
 
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/83274691-0398-4444-b15a-de0c6e45fa2b" />
+
+
+
 
 <!--
 **ujwalathandra/ujwalathandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
