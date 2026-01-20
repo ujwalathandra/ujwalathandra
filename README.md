@@ -1,10 +1,11 @@
 ## Hi, I'm Ujwala Thandra 👋
 Business Analyst | Data Analyst | Business Intelligence
+
 I’m a Business & Data Analyst with a strong focus on business insights, performance analytics, and decision support. I specialize in translating business questions into data-driven insights, building intuitive dashboards, and partnering with stakeholders to improve operational and financial outcomes.
 
 My work sits at the intersection of business strategy and analytics, where data is used not just to report numbers—but to guide action.
 
-🔍 What I Do
+🔍 WHAT I DO
 
 -Translate business requirements into analytical solutions
 
@@ -18,7 +19,7 @@ My work sits at the intersection of business strategy and analytics, where data 
 
 -Improve reporting efficiency through automation and standardized analytics
 
-🛠️ Skills & Tools
+🛠️ SKILLS & TOOLS
 
 Business & Data Analytics
 Business Requirement Analysis · KPI Frameworks · Metric Definition · Stakeholder Collaboration · Data Storytelling
