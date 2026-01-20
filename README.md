@@ -5,6 +5,7 @@ I’m a Business & Data Analyst with a strong focus on business insights, perfor
 My work sits at the intersection of business strategy and analytics, where data is used not just to report numbers—but to guide action.
 
 🔍 What I Do
+
 -Translate business requirements into analytical solutions
 
 -Design and maintain KPI frameworks and executive dashboards
